@@ -1,8 +1,4 @@
-## Non-Teaching Credit Course (NTCC)
-
-_Semester 06_
-
-"Independent Study and Research - II"
+# The Indian Pima females dataset for Diabetes : My Observational Study
 
 ---
 
