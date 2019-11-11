@@ -1,4 +1,6 @@
-# The Indian Pima females dataset for Diabetes : My Observational Study
+# The Indian Pima females dataset for Diabetes
+
+_My Observational Study_
 
 I performed a commentary analysis and observational study on the Female Pima Indians Dataset for Diabetes. Details about the data-set itself is available at [here](kaggle.com/uciml/pima-indians-diabetes-database). Specific details about the variables themselves, and the sampling of the records from volunteers, etc have been included in the RPubs document (Tab 1.1)
 
