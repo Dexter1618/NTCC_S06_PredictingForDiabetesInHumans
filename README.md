@@ -1,5 +1,6 @@
-Non-Teaching Credit Course (NTCC)
-Semester 06
+## Non-Teaching Credit Course (NTCC)
+
+_Semester 06_
 "Independent Study and Research - II"
 
 ---
